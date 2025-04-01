@@ -118,3 +118,4 @@ public class Bot extends TelegramLongPollingBot {
             sendApiMethod(sendMessage);
             }
 }
+// Изменение1
